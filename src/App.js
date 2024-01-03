@@ -1,4 +1,4 @@
-import logo from './singpass_logo_fullcolours.svg';
+import logo from './sp_logo.svg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} alt="logo" />
         <p>
-          <a className="App-link" href="https://q4svnfvnkb.execute-api.ap-southeast-1.amazonaws.com/dev/get-user/1" >Login to Singpass (STG)</a>          
+          <a className="App-link" href="https://q4svnfvnkb.execute-api.ap-southeast-1.amazonaws.com/dev/get-user/1" >Login to SP (STG)</a>          
         </p>
       </header>
     </div>
